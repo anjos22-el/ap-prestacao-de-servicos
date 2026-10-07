@@ -203,7 +203,7 @@ a {
 
 .hero {
   position: relative;
-  min-height: 560px;
+  min-height: 450px;
   overflow: hidden;
   display: flex;
   align-items: center;
@@ -245,7 +245,7 @@ a {
   position: relative;
   z-index: 2;
   max-width: 850px;
-   padding: 110px 0 85px;
+   padding: 85px 0 65px;
 }
 
 .eyebrow,
@@ -972,10 +972,8 @@ a {
   }
 
   .hero {
-    min-height: 650px;
+    min-height: 450px;
   }
-}
-
 
 @media (max-width: 900px) {
 
@@ -1035,7 +1033,7 @@ a {
   }
 
   .hero-content {
-    padding: 125px 0 105px;
+     padding: 85px 0 65px;
   }
 
   .hero-video {
@@ -1060,12 +1058,12 @@ a {
     padding: 70px 0;
   }
 
-  .hero {
-    min-height: 690px;
+  .hero {  
+    min-height: 540px;
   }
 
   .hero-content {
-    padding: 110px 0 110px;
+    padding: 85px 0 65px;
   }
 
   .hero h1 {

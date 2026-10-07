@@ -144,6 +144,7 @@ a {
 
 .site-header:not(.scrolled) .brand {
   color: var(--white);
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.55);
 }
 
 .navigation {
@@ -202,7 +203,7 @@ a {
 
 .hero {
   position: relative;
-  min-height: 700px;
+  min-height: 560px;
   overflow: hidden;
   display: flex;
   align-items: center;
@@ -244,7 +245,7 @@ a {
   position: relative;
   z-index: 2;
   max-width: 850px;
-  padding: 150px 0 120px;
+   padding: 110px 0 85px;
 }
 
 .eyebrow,
